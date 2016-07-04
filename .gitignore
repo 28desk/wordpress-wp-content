@@ -1,0 +1,10 @@
+.DS_Store
+
+uploads/
+upgrade/
+plugins/*
+
+# don't ignore those files
+!plugins/index.php
+!plugins/hello.php
+!plugins/akismet
